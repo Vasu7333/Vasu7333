@@ -1,7 +1,7 @@
 const CACHE_NAME = 'blog-cache-v1';
 const urlsToCache = [
   '/',
-  '/index.html',
+  'https://www.educontech.in.net/?m=1',
   // Add other assets you want to cache
 ];
 
